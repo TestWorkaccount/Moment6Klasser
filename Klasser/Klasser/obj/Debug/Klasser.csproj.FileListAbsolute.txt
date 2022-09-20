@@ -1,0 +1,8 @@
+C:\Users\Åke\source\repos\Klasser\Klasser\bin\Debug\Klasser.exe.config
+C:\Users\Åke\source\repos\Klasser\Klasser\bin\Debug\Klasser.exe
+C:\Users\Åke\source\repos\Klasser\Klasser\bin\Debug\Klasser.pdb
+C:\Users\Åke\source\repos\Klasser\Klasser\obj\Debug\Klasser.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\Klasser\Klasser\obj\Debug\Klasser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\Klasser\Klasser\obj\Debug\Klasser.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\Klasser\Klasser\obj\Debug\Klasser.exe
+C:\Users\Åke\source\repos\Klasser\Klasser\obj\Debug\Klasser.pdb

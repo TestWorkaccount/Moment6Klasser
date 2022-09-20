@@ -1,0 +1,8 @@
+C:\Users\Åke\source\repos\Uppgift6\Uppgift6\bin\Debug\Uppgift6.exe.config
+C:\Users\Åke\source\repos\Uppgift6\Uppgift6\bin\Debug\Uppgift6.exe
+C:\Users\Åke\source\repos\Uppgift6\Uppgift6\bin\Debug\Uppgift6.pdb
+C:\Users\Åke\source\repos\Uppgift6\Uppgift6\obj\Debug\Uppgift6.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\Uppgift6\Uppgift6\obj\Debug\Uppgift6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\Uppgift6\Uppgift6\obj\Debug\Uppgift6.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\Uppgift6\Uppgift6\obj\Debug\Uppgift6.exe
+C:\Users\Åke\source\repos\Uppgift6\Uppgift6\obj\Debug\Uppgift6.pdb
